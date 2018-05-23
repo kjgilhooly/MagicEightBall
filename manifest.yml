@@ -1,0 +1,6 @@
+---
+applications:
+- name: Magic-8-Ball
+  memory: 256M
+  host: m8b
+  domain: mybluemix.net
